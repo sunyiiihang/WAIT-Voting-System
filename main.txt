@@ -1,0 +1,11 @@
+{"user_id": "1", "place_name": "emirates stadium", "country": "england", "region": "Europe", "type": "proposal"}
+{"user_id": "a", "place_name": "big ben", "country": "england", "region": "Europe", "type": "proposal"}
+{"user_id": "2", "place_name": "hollywood", "country": "america", "region": "North America", "type": "proposal"}
+{"user_id": "5", "place_name": "hollywood", "comment": "movie", "type": "vote"}
+{"user_id": "4", "place_name": "emirates stadium", "comment": "win", "type": "vote"}
+{"user_id": "6", "place_name": "big ben", "comment": "cute", "type": "vote"}
+{"user_id": "9", "place_name": "emirates stadium", "comment": "home", "type": "vote"}
+{"user_id": "2", "place_name": "la", "country": "america", "region": "North America", "type": "proposal"}
+{"user_id": "a", "place_name": "garden", "country": "Singapore", "region": "Asia", "type": "proposal"}
+{"user_id": "10", "place_name": "garden", "comment": "", "type": "vote"}
+{"user_id": "1", "place_name": "effiel tower", "country": "french", "region": "Europe", "type": "proposal"}
